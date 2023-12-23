@@ -1,0 +1,32 @@
+{
+  "Frames": [
+    {
+      "EventContainer": {
+        "Events": []
+      },
+      "Duration": 5,
+      "Background": true,
+      "Multiplexes": 0,
+      "PaletteLine": 0,
+      "RenderType": "OnlySprite",
+      "SpriteType": "Channel_2_to_1",
+      "Path": "moon.png",
+      "HandleX": -8,
+      "HandleY": -8,
+      "XFlipped": false,
+      "HighPriority": false,
+      "ZeroIsTransparent": false,
+      "Name": "moon",
+      "IsBlank": false
+    }
+  ],
+  "PreventMovement": false,
+  "PreventCollision": false,
+  "HideChildren": false,
+  "LoopFrame": 0,
+  "OnFinish": null,
+  "AutoFlip": null,
+  "Streamed": true,
+  "PatternBuffer": 0,
+  "LinkedMap": ""
+}
