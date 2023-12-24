@@ -6,29 +6,29 @@ For chip:
 Map gfx (Panel: scorpion_eng_splashscreen): 35158
 Music memory (dor_castle_00121): 44292
 BP Buffer memory: 89280
-core sfx/gfx memory: 83931
+core sfx/gfx memory: 83419
 Parallax memory: 57600
 OS/other estimated: 99328
 
 For other:
-Map cache memory: 748
-Map header cache memory: 748
+Map cache memory: 754
+Map header cache memory: 754
 Map data memory: 13012
 Map background memory: 2116
 EXE memory: 210372
 vm memory: 10614
-project memory: 5638
+project memory: 5662
 memory reserved for active actors on screen (32): 4744
 memory reserved for dormant actors in map (256): 9216
 OS/other estimated: 105472
 
-Accounted memory chip: 515061
-Accounted memory other: 257208
-Accounted memory total: 772269
+Accounted memory chip: 514549
+Accounted memory other: 257244
+Accounted memory total: 771793
 
 === Misc ===
-Maps and Asset Bundles Count: 13
-Maps and Asset Bundles Data Size: 156
+Maps and Asset Bundles Count: 15
+Maps and Asset Bundles Data Size: 180
 Actor Count: 7
 Actor Data Size: 1316
 Block Count: 12
@@ -60,41 +60,47 @@ Header data for map level01 Original size 7992 Crunched size 244
 Tile data for map level01 (mem restrictions:None) Original size 4916 Crunched size 398
 Background for map level01 Original size 1396 Crunched size 82
 Header data for map level02 Original size 7992 Crunched size 244
-Tile data for map level02 (mem restrictions:None) Original size 4916 Crunched size 392
+Tile data for map level02 (mem restrictions:None) Original size 4916 Crunched size 390
 Background for map level02 Original size 1396 Crunched size 82
 Header data for map level03 Original size 7992 Crunched size 244
-Tile data for map level03 (mem restrictions:None) Original size 4916 Crunched size 370
+Tile data for map level03 (mem restrictions:None) Original size 4916 Crunched size 408
 Background for map level03 Original size 1396 Crunched size 82
 Header data for map level04 Original size 7992 Crunched size 244
-Tile data for map level04 (mem restrictions:None) Original size 4916 Crunched size 386
+Tile data for map level04 (mem restrictions:None) Original size 4916 Crunched size 392
 Background for map level04 Original size 1396 Crunched size 82
 Header data for map level05 Original size 7992 Crunched size 244
-Tile data for map level05 (mem restrictions:None) Original size 5012 Crunched size 458
+Tile data for map level05 (mem restrictions:None) Original size 4916 Crunched size 370
 Background for map level05 Original size 1396 Crunched size 82
-Header data for map level06 Original size 7992 Crunched size 242
-Tile data for map level06 (mem restrictions:None) Original size 4916 Crunched size 382
+Header data for map level06 Original size 7992 Crunched size 244
+Tile data for map level06 (mem restrictions:None) Original size 4916 Crunched size 386
 Background for map level06 Original size 1396 Crunched size 82
-Header data for map level07 Original size 7992 Crunched size 262
-Tile data for map level07 (mem restrictions:None) Original size 13012 Crunched size 748
+Header data for map level07 Original size 7992 Crunched size 244
+Tile data for map level07 (mem restrictions:None) Original size 5012 Crunched size 492
 Background for map level07 Original size 1396 Crunched size 82
 Header data for map level08 Original size 7992 Crunched size 242
-Tile data for map level08 (mem restrictions:None) Original size 4916 Crunched size 414
+Tile data for map level08 (mem restrictions:None) Original size 4916 Crunched size 382
 Background for map level08 Original size 1396 Crunched size 82
-Header data for map level09 Original size 7992 Crunched size 244
-Tile data for map level09 (mem restrictions:None) Original size 4916 Crunched size 520
+Header data for map level09 Original size 7992 Crunched size 262
+Tile data for map level09 (mem restrictions:None) Original size 13012 Crunched size 754
 Background for map level09 Original size 1396 Crunched size 82
-Header data for map level10 Original size 7992 Crunched size 244
-Tile data for map level10 (mem restrictions:None) Original size 4916 Crunched size 410
+Header data for map level10 Original size 7992 Crunched size 242
+Tile data for map level10 (mem restrictions:None) Original size 4916 Crunched size 414
 Background for map level10 Original size 1396 Crunched size 82
+Header data for map level11 Original size 7992 Crunched size 244
+Tile data for map level11 (mem restrictions:None) Original size 4916 Crunched size 520
+Background for map level11 Original size 1396 Crunched size 82
+Header data for map level12 Original size 7992 Crunched size 244
+Tile data for map level12 (mem restrictions:None) Original size 4916 Crunched size 410
+Background for map level12 Original size 1396 Crunched size 82
 Header data for map level99 Original size 7992 Crunched size 236
 Tile data for map level99 (mem restrictions:None) Original size 4820 Crunched size 268
 Background for map level99 Original size 1492 Crunched size 408
 Parallax for map level99 Original size 57600 Crunched size 2762
-Asset bundle 0 (Core project asset bundle) Original size 83931 Crunched size 19370
-Asset bundle 1 (level00) Original size 5424 Crunched size 1252
-Asset bundle 12 (level99) Original size 256 Crunched size 106
-Project Header Original size 4032 Crunched size 1204
-Project Data Original size 5638 Crunched size 1476
+Asset bundle 0 (Core project asset bundle) Original size 83419 Crunched size 19350
+Asset bundle 1 (level00) Original size 5296 Crunched size 1030
+Asset bundle 14 (level99) Original size 256 Crunched size 106
+Project Header Original size 4032 Crunched size 1206
+Project Data Original size 5662 Crunched size 1470
 Project virtual machine (codeblocks) Original size 10614 Crunched size 3116
 Project virtual machine redirects Original size 4 Crunched size 4
 
