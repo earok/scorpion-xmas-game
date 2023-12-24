@@ -21,4 +21,14 @@
       <property name="Name" value="present_destroy" type="string" />
     </properties>
   </tile>
+  <tile id="4">
+    <properties>
+      <property name="Name" value="level_exit_actor" type="string" />
+    </properties>
+  </tile>
+  <tile id="5">
+    <properties>
+      <property name="Name" value="rudolph" type="string" />
+    </properties>
+  </tile>
 </tileset>

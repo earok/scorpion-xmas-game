@@ -170,7 +170,7 @@
   <properties>
    <property name="AnimateProperties" type="bool" value="false"/>
    <property name="IsPlatform" type="bool" value="false"/>
-   <property name="IsSolid" type="bool" value="true"/>
+   <property name="IsSolid" type="bool" value="false"/>
    <property name="MD_Palette_BL" type="int" value="0"/>
    <property name="MD_Palette_BR" type="int" value="0"/>
    <property name="MD_Palette_TL" type="int" value="0"/>
@@ -3608,6 +3608,12 @@
    <property name="MD_Palette_TL" type="int" value="0"/>
    <property name="MD_Palette_TR" type="int" value="0"/>
   </properties>
+  <animation>
+   <frame tileid="327" duration="100"/>
+   <frame tileid="328" duration="100"/>
+   <frame tileid="329" duration="100"/>
+   <frame tileid="330" duration="100"/>
+  </animation>
  </tile>
  <tile id="328">
   <properties>
@@ -4312,6 +4318,12 @@
    <property name="MD_Palette_TL" type="int" value="0"/>
    <property name="MD_Palette_TR" type="int" value="0"/>
   </properties>
+  <animation>
+   <frame tileid="391" duration="100"/>
+   <frame tileid="392" duration="100"/>
+   <frame tileid="393" duration="100"/>
+   <frame tileid="394" duration="100"/>
+  </animation>
  </tile>
  <tile id="392">
   <properties>

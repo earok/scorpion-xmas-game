@@ -104,16 +104,16 @@
     false
   ],
   "CollBox": {
-    "X": -6,
-    "Y": -8,
-    "Width": 10,
-    "Height": 9
+    "X": -7,
+    "Y": -2,
+    "Width": 14,
+    "Height": 3
   },
   "AttackDelay": 0,
   "ZOrder": 0,
   "SpeedLeft": 1.0,
   "SpeedRight": 1.0,
-  "SpeedUp": 2.0,
+  "SpeedUp": 2.2,
   "SpeedDown": 2.0,
   "AccelLeft": null,
   "AccelRight": null,
@@ -148,7 +148,7 @@
   "DivertOutOfScreenDown": "restartlevel",
   "DivertPlatformEdge": null,
   "DivertPlatformLand": null,
-  "DivertTimer": null,
+  "DivertTimer": "santa_update_handler",
   "DivertTimerFrames": 0,
   "Vars": [
     "0",
