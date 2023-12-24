@@ -36,7 +36,7 @@
       "XFloat": null,
       "YFloat": null,
       "ActorType": "puff",
-      "Animation": "anim_smoke_puff",
+      "Animation": "none",
       "PushXPixels": "",
       "PushYPixels": "",
       "LookDirection": "look_upleft",
@@ -79,15 +79,7 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
-      "Conditions": [
-        {
-          "LeftSide": "",
-          "Comparison": "NotZero",
-          "RightSide": "",
-          "ComparisonNext": "End",
-          "IsValid": false
-        }
-      ]
+      "Conditions": []
     }
   ]
 }

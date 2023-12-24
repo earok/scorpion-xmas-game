@@ -27,4 +27,9 @@
       <property name="Name" value="rudolph" type="string" />
     </properties>
   </tile>
+  <tile id="6">
+    <properties>
+      <property name="Name" value="puff" type="string" />
+    </properties>
+  </tile>
 </tileset>

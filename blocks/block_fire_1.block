@@ -5,7 +5,7 @@
   "Divert_PlayerCollision": "santa_hit_fire",
   "Divert_PlayerHit": null,
   "Divert_PlayerOverlap": null,
-  "Divert_ProjectileCollision": null,
+  "Divert_ProjectileCollision": "change_to_puff",
   "OnAnimationFrame": "block_fire_2",
   "FastBlit": false,
   "IsInvisible": false,

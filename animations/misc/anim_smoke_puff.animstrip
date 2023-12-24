@@ -2,7 +2,36 @@
   "Frames": [
     {
       "EventContainer": {
-        "Events": []
+        "Events": [
+          {
+            "FrameEventType": "Sound",
+            "Dir": "move_right",
+            "Codeblock": null,
+            "Actor": "none",
+            "Sound": "hit_damage_1",
+            "Expression": null,
+            "Tag": "FrameEvent0",
+            "IsConditional": false,
+            "OverrideDirection": false,
+            "ColorR": 0,
+            "ColorG": 0,
+            "ColorB": 255,
+            "Box": {
+              "X": -4,
+              "Y": -4,
+              "Width": 8,
+              "Height": 8
+            },
+            "HasTag": false,
+            "Color": {
+              "r": 0,
+              "g": 0,
+              "b": 255,
+              "a": 128
+            },
+            "Conditions": []
+          }
+        ]
       },
       "Duration": 5,
       "Background": false,

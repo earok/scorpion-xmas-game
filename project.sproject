@@ -2,7 +2,7 @@
   "TargetPlatform": "amiga_ocs",
   "StartupCodeBlock": "startup",
   "Recompile": true,
-  "DebugMode": true,
+  "DebugMode": false,
   "DataVersion": 3,
   "Commands": [
     {
@@ -92,7 +92,36 @@
   ],
   "AnimationMetaData": {},
   "Anim5MetaData": {},
-  "SoundMetaData": {},
+  "SoundMetaData": {
+    "balloon_start_riding_1": {
+      "LinkedMap": "",
+      "RepeatDelay": 1,
+      "IsMusic": false,
+      "Priority": 0,
+      "Channel": null
+    },
+    "fruit_collect_1": {
+      "LinkedMap": "",
+      "RepeatDelay": 1,
+      "IsMusic": false,
+      "Priority": 0,
+      "Channel": null
+    },
+    "hit_damage_1": {
+      "LinkedMap": "",
+      "RepeatDelay": 1,
+      "IsMusic": false,
+      "Priority": 0,
+      "Channel": null
+    },
+    "jump_1": {
+      "LinkedMap": "",
+      "RepeatDelay": 25,
+      "IsMusic": false,
+      "Priority": 0,
+      "Channel": null
+    }
+  },
   "MMLMetaData": {},
   "NumberFontMetaData": {},
   "FontMetaData": {},
