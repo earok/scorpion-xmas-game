@@ -36,11 +36,7 @@
       <property name="Name" value="block_present_target" type="string" />
     </properties>
   </tile>
-  <tile id="7">
-    <properties>
-      <property name="Name" value="block_present_delivered" type="string" />
-    </properties>
-  </tile>
+  <tile id="7" />
   <tile id="8">
     <properties>
       <property name="Name" value="block_fire_1" type="string" />

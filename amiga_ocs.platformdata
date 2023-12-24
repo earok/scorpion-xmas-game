@@ -14,7 +14,7 @@
   "XOffset": 32,
   "XFillSize": 20,
   "YFillSize": 17,
-  "MapCache": false,
+  "MapCache": true,
   "DoubleCopper": true,
   "AllocateMemoryUpfront": true,
   "NTSC": false,

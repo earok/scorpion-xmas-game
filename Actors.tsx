@@ -6,11 +6,7 @@
       <property name="Name" value="player_santa" type="string" />
     </properties>
   </tile>
-  <tile id="1">
-    <properties>
-      <property name="Name" value="moon" type="string" />
-    </properties>
-  </tile>
+  <tile id="1" />
   <tile id="2">
     <properties>
       <property name="Name" value="present_moving" type="string" />

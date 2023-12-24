@@ -98,7 +98,15 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
-      "Conditions": []
+      "Conditions": [
+        {
+          "LeftSide": "",
+          "Comparison": "NotZero",
+          "RightSide": "",
+          "ComparisonNext": "End",
+          "IsValid": false
+        }
+      ]
     },
     {
       "Values": {},
@@ -197,7 +205,7 @@
       "Goto": "",
       "Comment": "",
       "Variable": "currentlevel",
-      "Expression": "level01",
+      "Expression": "level04",
       "Index": "0",
       "Label": "",
       "DiceSides": 2,
