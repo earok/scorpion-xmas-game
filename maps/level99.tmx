@@ -8,8 +8,8 @@
     <property name="parallax_path" type="file" value="parallax.parallax.png" />
     <property name="skip_transparent" type="bool" value="true" />
   </properties>
-  <tileset firstgid="1" source="..\Actors.tsx" />
-  <tileset firstgid="257" source="..\Blocks.tsx" />
+  <tileset firstgid="1" source="../Actors.tsx" />
+  <tileset firstgid="257" source="../Blocks.tsx" />
   <tileset firstgid="513" source="tileset.tileset.tsx" />
   <layer id="8" name="map" width="40" height="14">
     <data encoding="csv">

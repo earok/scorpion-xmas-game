@@ -3,7 +3,7 @@ MDS Sequence file Original size 150 Crunched size 150
 Project sound Original size 140 Crunched size 140
 Default MD font Original size 2048 Crunched size 2048
 Default MD number font Original size 320 Crunched size 320
-Project virtual machine (codeblocks) Original size 10604 Crunched size 10604
+Project virtual machine (codeblocks) Original size 10372 Crunched size 10372
 Project blocks Original size 816 Crunched size 816
 Project actors Original size 1316 Crunched size 1316
 Project patterns Original size 928 Crunched size 928
@@ -21,37 +21,37 @@ Map tile data  level01 Original size 920 Crunched size 63
 Map block data for level01 Original size 920 Crunched size 21
 Map path node data for level01 Original size 12 Crunched size 12
 Map event data for level01 Original size 32 Crunched size 32
-Map animation data forlevel01 Original size 1064 Crunched size 1064
 Pattern data for 3 Original size 42 Crunched size 42
+Dynamic pattern data for 3 Original size 32 Crunched size 32
+Get Y lookup table level02 Original size 80 Crunched size 80
+Map tile data  level02 Original size 920 Crunched size 56
+Map block data for level02 Original size 920 Crunched size 16
+Map path node data for level02 Original size 12 Crunched size 12
+Map event data for level02 Original size 32 Crunched size 32
+Pattern data for 4 Original size 36 Crunched size 36
+Dynamic pattern data for 4 Original size 32 Crunched size 32
+Get Y lookup table level03 Original size 80 Crunched size 80
+Map tile data  level03 Original size 920 Crunched size 70
+Map block data for level03 Original size 920 Crunched size 23
+Map path node data for level03 Original size 12 Crunched size 12
+Map event data for level03 Original size 32 Crunched size 32
+Pattern data for 5 Original size 24 Crunched size 24
+Dynamic pattern data for 5 Original size 32 Crunched size 32
+Get Y lookup table level04 Original size 80 Crunched size 80
+Map block data for level04 Original size 920 Crunched size 26
 Pattern data for 14 Original size 6 Crunched size 6
 MDS PCM file Original size 17581 Crunched size 17581
 Panel  Original size 10332 Crunched size 10332
 Panel md_parallax Original size 8206 Crunched size 8206
 Map header level00 Original size 9112 Crunched size 9112
 Map header level01 Original size 9112 Crunched size 9112
-Dynamic pattern data for 3 Original size 32 Crunched size 32
+Map animation data forlevel01 Original size 1064 Crunched size 1064
 Map header level02 Original size 9112 Crunched size 9112
-Get Y lookup table level02 Original size 80 Crunched size 80
-Map tile data  level02 Original size 920 Crunched size 56
-Map block data for level02 Original size 920 Crunched size 16
-Map path node data for level02 Original size 12 Crunched size 12
-Map event data for level02 Original size 32 Crunched size 32
 Map animation data forlevel02 Original size 1064 Crunched size 1064
-Pattern data for 4 Original size 36 Crunched size 36
-Dynamic pattern data for 4 Original size 32 Crunched size 32
 Map header level03 Original size 9112 Crunched size 9112
-Get Y lookup table level03 Original size 80 Crunched size 80
-Map tile data  level03 Original size 920 Crunched size 70
-Map block data for level03 Original size 920 Crunched size 23
-Map path node data for level03 Original size 12 Crunched size 12
-Map event data for level03 Original size 32 Crunched size 32
 Map animation data forlevel03 Original size 1064 Crunched size 1064
-Pattern data for 5 Original size 24 Crunched size 24
-Dynamic pattern data for 5 Original size 32 Crunched size 32
 Map header level04 Original size 9112 Crunched size 9112
-Get Y lookup table level04 Original size 80 Crunched size 80
 Map tile data  level04 Original size 920 Crunched size 68
-Map block data for level04 Original size 920 Crunched size 26
 Map path node data for level04 Original size 12 Crunched size 12
 Map event data for level04 Original size 32 Crunched size 32
 Map animation data forlevel04 Original size 1064 Crunched size 1064
@@ -139,7 +139,7 @@ Streamed project patterns Original size 8256 Crunched size 8256
 Images Original size 1242 Crunched size 1242
 Animations Original size 272 Crunched size 272
 Animation Frames Original size 896 Crunched size 896
-Mega Drive header Original size 3662 Crunched size 3662
+Mega Drive header Original size 2894 Crunched size 2894
 Teleporters Original size 8 Crunched size 8
 Var Data Original size 16 Crunched size 16
 Attack Data Original size 66 Crunched size 66
@@ -150,7 +150,7 @@ block_fire_2
 block_fire_3
 
 === Codeblocks by compiled size ===
-load_level: 918
+load_level: 686
 try_push_block: 634
 block_stop: 390
 set_yresolution: 386 (Unused?)
