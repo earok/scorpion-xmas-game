@@ -9,7 +9,7 @@
             "Codeblock": null,
             "Actor": "none",
             "Sound": "jump_1",
-            "Expression": null,
+            "Expression": "0",
             "Tag": "FrameEvent0",
             "IsConditional": false,
             "OverrideDirection": false,

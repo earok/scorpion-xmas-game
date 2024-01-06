@@ -33,6 +33,7 @@
       <property name="amiga_ocs" type="bool" value="true" />
       <property name="foreground" type="bool" value="false" />
       <property name="megadrive" type="bool" value="true" />
+      <property name="megadrive_32x" type="bool" value="true" />
     </properties>
   </layer>
   <layer id="9" name="trees" width="40" height="14">
@@ -56,6 +57,7 @@
       <property name="amiga_ocs" type="bool" value="true" />
       <property name="foreground" type="bool" value="false" />
       <property name="megadrive" type="bool" value="true" />
+      <property name="megadrive_32x" type="bool" value="true" />
     </properties>
   </layer>
   <layer id="2" name="blocks" width="40" height="14">
@@ -79,6 +81,7 @@
       <property name="amiga_ocs" type="bool" value="true" />
       <property name="foreground" type="bool" value="false" />
       <property name="megadrive" type="bool" value="true" />
+      <property name="megadrive_32x" type="bool" value="true" />
     </properties>
   </layer>
   <layer id="3" name="actors" width="40" height="14">
@@ -102,6 +105,7 @@
       <property name="amiga_ocs" type="bool" value="true" />
       <property name="foreground" type="bool" value="false" />
       <property name="megadrive" type="bool" value="true" />
+      <property name="megadrive_32x" type="bool" value="true" />
     </properties>
   </layer>
   <layer id="4" name="foreground" width="40" height="14">
@@ -125,6 +129,7 @@
       <property name="amiga_ocs" type="bool" value="true" />
       <property name="foreground" type="bool" value="true" />
       <property name="megadrive" type="bool" value="true" />
+      <property name="megadrive_32x" type="bool" value="true" />
     </properties>
   </layer>
   <objectgroup id="6" name="events" />

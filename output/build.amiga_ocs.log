@@ -15,16 +15,16 @@ Map cache memory: 754
 Map header cache memory: 754
 Map data memory: 13012
 Map background memory: 2116
-EXE memory: 210372
-vm memory: 10614
+EXE memory: 210680
+vm memory: 10800
 project memory: 5662
 memory reserved for active actors on screen (32): 4744
 memory reserved for dormant actors in map (256): 9216
 OS/other estimated: 105472
 
 Accounted memory chip: 514549
-Accounted memory other: 257244
-Accounted memory total: 771793
+Accounted memory other: 257738
+Accounted memory total: 772287
 
 === Misc ===
 Maps and Asset Bundles Count: 15
@@ -99,9 +99,9 @@ Parallax for map level99 Original size 57600 Crunched size 2762
 Asset bundle 0 (Core project asset bundle) Original size 83419 Crunched size 19350
 Asset bundle 1 (level00) Original size 5296 Crunched size 1030
 Asset bundle 14 (level99) Original size 256 Crunched size 106
-Project Header Original size 4032 Crunched size 1206
+Project Header Original size 4032 Crunched size 1214
 Project Data Original size 5662 Crunched size 1470
-Project virtual machine (codeblocks) Original size 10614 Crunched size 3116
+Project virtual machine (codeblocks) Original size 10800 Crunched size 3146
 Project virtual machine redirects Original size 4 Crunched size 4
 
 === Possibly unused blocks ===
@@ -109,7 +109,7 @@ block_fire_2
 block_fire_3
 
 === Codeblocks by compiled size ===
-load_level: 922
+load_level: 900
 try_push_block: 634
 set_yresolution: 446 (Unused?)
 block_stop: 390
@@ -118,8 +118,8 @@ flipscreen_smooth: 306 (Unused?)
 pre_startup: 290
 pause: 252
 flipxymove: 250 (Unused?)
+restartlevel: 242
 try_present_hit_target: 236
-restartlevel: 222
 waitforframes: 186
 block_exit_level: 162
 snap_to_screen: 158 (Unused?)
@@ -164,6 +164,8 @@ unload_panel_bottom: 62
 unload_panel_top: 62
 fall_straight_down: 60
 go_to_next_level: 60
+freeze_test: 58
+unfreeze_test: 58
 destroy_all_actors: 56 (Unused?)
 load_panel_finish: 56
 destroy_actor: 54
@@ -182,6 +184,8 @@ autogen_santa_jump_l_0: 42
 resume_movement: 42
 autogen_rudolph_falling_r_0: 38
 autogen_rudolph_falling_l_0: 38
+freeze_actor: 36
+unfreeze_actor: 36
 block_coll_force: 32 (Unused?)
 block_coll_passthru: 32
 vm_registers: 26 (Unused?)

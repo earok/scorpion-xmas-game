@@ -1,5 +1,5 @@
 {
-  "TargetPlatform": "amiga_ocs",
+  "TargetPlatform": "megadrive",
   "StartupCodeBlock": "startup",
   "Recompile": true,
   "DebugMode": false,
@@ -88,6 +88,48 @@
       "OnPress": "go_to_next_level",
       "OnRelease": null,
       "buttonState": 0
+    },
+    {
+      "Compiler": "amiga",
+      "Key": "F",
+      "JoystickPort": -1,
+      "JoystickX": 0,
+      "JoystickY": 0,
+      "JoystickFire1": false,
+      "JoystickFire2": false,
+      "CD32Play": false,
+      "CD32Reverse": false,
+      "CD32Forward": false,
+      "CD32Green": false,
+      "CD32Yellow": false,
+      "MegaDrive_B": false,
+      "MegaDrive_C": false,
+      "MegaDrive_A": false,
+      "MegaDrive_Start": false,
+      "OnPress": "freeze_test",
+      "OnRelease": null,
+      "buttonState": 0
+    },
+    {
+      "Compiler": "amiga",
+      "Key": "G",
+      "JoystickPort": -1,
+      "JoystickX": 0,
+      "JoystickY": 0,
+      "JoystickFire1": false,
+      "JoystickFire2": false,
+      "CD32Play": false,
+      "CD32Reverse": false,
+      "CD32Forward": false,
+      "CD32Green": false,
+      "CD32Yellow": false,
+      "MegaDrive_B": false,
+      "MegaDrive_C": false,
+      "MegaDrive_A": false,
+      "MegaDrive_Start": false,
+      "OnPress": "unfreeze_test",
+      "OnRelease": null,
+      "buttonState": 0
     }
   ],
   "AnimationMetaData": {},
@@ -122,7 +164,29 @@
       "Channel": null
     }
   },
-  "MMLMetaData": {},
+  "MMLMetaData": {
+    "balloon_start_riding_1": {
+      "LinkedMap": "",
+      "RepeatDelay": 1,
+      "IsMusic": false,
+      "Priority": 0,
+      "Channel": null
+    },
+    "fruit_collect_1": {
+      "LinkedMap": "",
+      "RepeatDelay": 1,
+      "IsMusic": false,
+      "Priority": 0,
+      "Channel": null
+    },
+    "jump_1": {
+      "LinkedMap": "",
+      "RepeatDelay": 1,
+      "IsMusic": false,
+      "Priority": 0,
+      "Channel": null
+    }
+  },
   "NumberFontMetaData": {},
   "FontMetaData": {},
   "SplashScreen": null,
@@ -131,6 +195,6 @@
   "PaletteLines": 1,
   "ReadCD32Buttons": false,
   "MDRegion": "E",
-  "MDSoundDriver": "XGM",
+  "MDSoundDriver": "MDSDRV",
   "SplashScreenFrames": 50
 }
