@@ -16,15 +16,15 @@ Map header cache memory: 262
 Map data memory: 13012
 Map background memory: 2116
 EXE memory: 211412
-vm memory: 10594
+vm memory: 10604
 project memory: 5662
 memory reserved for active actors on screen (32): 4744
 memory reserved for dormant actors in map (256): 9216
 OS/other estimated: 105472
 
 Accounted memory chip: 465048
-Accounted memory other: 257772
-Accounted memory total: 722820
+Accounted memory other: 257782
+Accounted memory total: 722830
 
 === Misc ===
 Maps and Asset Bundles Count: 15
@@ -101,7 +101,7 @@ Asset bundle 1 (level00) Original size 5296 Crunched size 1030
 Asset bundle 14 (level99) Original size 256 Crunched size 106
 Project Header Original size 4032 Crunched size 1208
 Project Data Original size 5662 Crunched size 1476
-Project virtual machine (codeblocks) Original size 10594 Crunched size 3140
+Project virtual machine (codeblocks) Original size 10604 Crunched size 3146
 Project virtual machine redirects Original size 4 Crunched size 4
 
 === Possibly unused blocks ===
@@ -119,8 +119,8 @@ flipxymove: 250 (Unused?)
 try_present_hit_target: 236
 restartlevel: 234
 pre_startup: 206
+check_talkpad: 188 (Unused?)
 waitforframes: 186
-check_talkpad: 178 (Unused?)
 pause: 164
 block_exit_level: 162
 snap_to_screen: 158 (Unused?)

@@ -3,7 +3,7 @@ MDS Sequence file Original size 150 Crunched size 150
 Project sound Original size 140 Crunched size 140
 Default MD font Original size 2048 Crunched size 2048
 Default MD number font Original size 320 Crunched size 320
-Project virtual machine (codeblocks) Original size 10372 Crunched size 10372
+Project virtual machine (codeblocks) Original size 10382 Crunched size 10382
 Project blocks Original size 816 Crunched size 816
 Project actors Original size 1316 Crunched size 1316
 Project patterns Original size 928 Crunched size 928
@@ -39,7 +39,7 @@ Pattern data for 5 Original size 24 Crunched size 24
 Dynamic pattern data for 5 Original size 32 Crunched size 32
 Get Y lookup table level04 Original size 80 Crunched size 80
 Map block data for level04 Original size 920 Crunched size 26
-Pattern data for 14 Original size 6 Crunched size 6
+Map path node data for level04 Original size 12 Crunched size 12
 MDS PCM file Original size 17581 Crunched size 17581
 Panel  Original size 10332 Crunched size 10332
 Panel md_parallax Original size 8206 Crunched size 8206
@@ -52,7 +52,6 @@ Map header level03 Original size 9112 Crunched size 9112
 Map animation data forlevel03 Original size 1064 Crunched size 1064
 Map header level04 Original size 9112 Crunched size 9112
 Map tile data  level04 Original size 920 Crunched size 68
-Map path node data for level04 Original size 12 Crunched size 12
 Map event data for level04 Original size 32 Crunched size 32
 Map animation data forlevel04 Original size 1064 Crunched size 1064
 Pattern data for 6 Original size 30 Crunched size 30
@@ -127,6 +126,7 @@ Map block data for level12 Original size 920 Crunched size 27
 Map path node data for level12 Original size 12 Crunched size 12
 Map event data for level12 Original size 32 Crunched size 32
 Map animation data forlevel12 Original size 1064 Crunched size 1064
+Pattern data for 14 Original size 6 Crunched size 6
 Dynamic pattern data for 14 Original size 32 Crunched size 32
 Map header level99 Original size 9112 Crunched size 9112
 Get Y lookup table level99 Original size 80 Crunched size 80
@@ -161,8 +161,8 @@ try_present_hit_target: 236
 restartlevel: 234
 waitforframes: 186
 pre_startup: 182
+check_talkpad: 168 (Unused?)
 block_exit_level: 162
-check_talkpad: 158 (Unused?)
 snap_to_screen: 158 (Unused?)
 flipymove: 146 (Unused?)
 load_panel: 146
