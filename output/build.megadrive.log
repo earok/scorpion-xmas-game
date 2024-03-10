@@ -1,12 +1,12 @@
+RAM reserved for level tiles: 5040 bytes (largest level: level09)
+
 MDS Bin file Original size 8202 Crunched size 8202
 MDS Sequence file Original size 150 Crunched size 150
 Project sound Original size 140 Crunched size 140
 Default MD font Original size 2048 Crunched size 2048
 Default MD number font Original size 320 Crunched size 320
-Project virtual machine (codeblocks) Original size 10382 Crunched size 10382
+Project virtual machine (codeblocks) Original size 10940 Crunched size 10940
 Project blocks Original size 816 Crunched size 816
-Project actors Original size 1316 Crunched size 1316
-Project patterns Original size 928 Crunched size 928
 Pattern data for 1 Original size 84 Crunched size 84
 Dynamic pattern data for 1 Original size 32 Crunched size 32
 Get Y lookup table level00 Original size 80 Crunched size 80
@@ -24,39 +24,42 @@ Map event data for level01 Original size 32 Crunched size 32
 Pattern data for 3 Original size 42 Crunched size 42
 Dynamic pattern data for 3 Original size 32 Crunched size 32
 Get Y lookup table level02 Original size 80 Crunched size 80
+Pattern data for 14 Original size 6 Crunched size 6
+MDS PCM file Original size 17581 Crunched size 17581
+Panel  Original size 10334 Crunched size 10334
+Panel md_parallax Original size 8208 Crunched size 8208
+Project actors Original size 1316 Crunched size 1316
+Project patterns Original size 928 Crunched size 928
+Map header level00 Original size 9116 Crunched size 9116
+Map header level01 Original size 9116 Crunched size 9116
+Map animation data forlevel01 Original size 1064 Crunched size 1064
+Map header level02 Original size 9116 Crunched size 9116
 Map tile data  level02 Original size 920 Crunched size 56
 Map block data for level02 Original size 920 Crunched size 16
 Map path node data for level02 Original size 12 Crunched size 12
 Map event data for level02 Original size 32 Crunched size 32
+Map animation data forlevel02 Original size 1064 Crunched size 1064
 Pattern data for 4 Original size 36 Crunched size 36
 Dynamic pattern data for 4 Original size 32 Crunched size 32
+Map header level03 Original size 9116 Crunched size 9116
 Get Y lookup table level03 Original size 80 Crunched size 80
 Map tile data  level03 Original size 920 Crunched size 70
 Map block data for level03 Original size 920 Crunched size 23
 Map path node data for level03 Original size 12 Crunched size 12
 Map event data for level03 Original size 32 Crunched size 32
+Map animation data forlevel03 Original size 1064 Crunched size 1064
 Pattern data for 5 Original size 24 Crunched size 24
 Dynamic pattern data for 5 Original size 32 Crunched size 32
+Map header level04 Original size 9116 Crunched size 9116
 Get Y lookup table level04 Original size 80 Crunched size 80
+Map tile data  level04 Original size 920 Crunched size 68
 Map block data for level04 Original size 920 Crunched size 26
 Map path node data for level04 Original size 12 Crunched size 12
-MDS PCM file Original size 17581 Crunched size 17581
-Panel  Original size 10332 Crunched size 10332
-Panel md_parallax Original size 8206 Crunched size 8206
-Map header level00 Original size 9112 Crunched size 9112
-Map header level01 Original size 9112 Crunched size 9112
-Map animation data forlevel01 Original size 1064 Crunched size 1064
-Map header level02 Original size 9112 Crunched size 9112
-Map animation data forlevel02 Original size 1064 Crunched size 1064
-Map header level03 Original size 9112 Crunched size 9112
-Map animation data forlevel03 Original size 1064 Crunched size 1064
-Map header level04 Original size 9112 Crunched size 9112
-Map tile data  level04 Original size 920 Crunched size 68
 Map event data for level04 Original size 32 Crunched size 32
 Map animation data forlevel04 Original size 1064 Crunched size 1064
 Pattern data for 6 Original size 30 Crunched size 30
 Dynamic pattern data for 6 Original size 32 Crunched size 32
-Map header level05 Original size 9112 Crunched size 9112
+Map header level05 Original size 9116 Crunched size 9116
 Get Y lookup table level05 Original size 80 Crunched size 80
 Map tile data  level05 Original size 920 Crunched size 53
 Map block data for level05 Original size 920 Crunched size 21
@@ -65,7 +68,7 @@ Map event data for level05 Original size 32 Crunched size 32
 Map animation data forlevel05 Original size 1064 Crunched size 1064
 Pattern data for 7 Original size 24 Crunched size 24
 Dynamic pattern data for 7 Original size 32 Crunched size 32
-Map header level06 Original size 9112 Crunched size 9112
+Map header level06 Original size 9116 Crunched size 9116
 Get Y lookup table level06 Original size 80 Crunched size 80
 Map tile data  level06 Original size 920 Crunched size 78
 Map block data for level06 Original size 920 Crunched size 29
@@ -74,7 +77,7 @@ Map event data for level06 Original size 32 Crunched size 32
 Map animation data forlevel06 Original size 1064 Crunched size 1064
 Pattern data for 8 Original size 30 Crunched size 30
 Dynamic pattern data for 8 Original size 32 Crunched size 32
-Map header level07 Original size 9112 Crunched size 9112
+Map header level07 Original size 9116 Crunched size 9116
 Get Y lookup table level07 Original size 80 Crunched size 80
 Map tile data  level07 Original size 920 Crunched size 88
 Map block data for level07 Original size 920 Crunched size 39
@@ -83,7 +86,7 @@ Map event data for level07 Original size 32 Crunched size 32
 Map animation data forlevel07 Original size 2128 Crunched size 2128
 Pattern data for 9 Original size 24 Crunched size 24
 Dynamic pattern data for 9 Original size 32 Crunched size 32
-Map header level08 Original size 9112 Crunched size 9112
+Map header level08 Original size 9116 Crunched size 9116
 Get Y lookup table level08 Original size 80 Crunched size 80
 Map tile data  level08 Original size 920 Crunched size 74
 Map block data for level08 Original size 920 Crunched size 28
@@ -92,7 +95,7 @@ Map event data for level08 Original size 32 Crunched size 32
 Map animation data forlevel08 Original size 1064 Crunched size 1064
 Pattern data for 10 Original size 30 Crunched size 30
 Dynamic pattern data for 10 Original size 32 Crunched size 32
-Map header level09 Original size 11352 Crunched size 11352
+Map header level09 Original size 11356 Crunched size 11356
 Get Y lookup table level09 Original size 80 Crunched size 80
 Map tile data  level09 Original size 2520 Crunched size 170
 Map block data for level09 Original size 2520 Crunched size 41
@@ -101,7 +104,7 @@ Map event data for level09 Original size 32 Crunched size 32
 Map animation data forlevel09 Original size 2128 Crunched size 2128
 Pattern data for 11 Original size 24 Crunched size 24
 Dynamic pattern data for 11 Original size 32 Crunched size 32
-Map header level10 Original size 9112 Crunched size 9112
+Map header level10 Original size 9116 Crunched size 9116
 Get Y lookup table level10 Original size 80 Crunched size 80
 Map tile data  level10 Original size 920 Crunched size 84
 Map block data for level10 Original size 920 Crunched size 32
@@ -110,7 +113,7 @@ Map event data for level10 Original size 32 Crunched size 32
 Map animation data forlevel10 Original size 1064 Crunched size 1064
 Pattern data for 12 Original size 24 Crunched size 24
 Dynamic pattern data for 12 Original size 32 Crunched size 32
-Map header level11 Original size 9112 Crunched size 9112
+Map header level11 Original size 9116 Crunched size 9116
 Get Y lookup table level11 Original size 80 Crunched size 80
 Map tile data  level11 Original size 920 Crunched size 107
 Map block data for level11 Original size 920 Crunched size 47
@@ -119,16 +122,15 @@ Map event data for level11 Original size 32 Crunched size 32
 Map animation data forlevel11 Original size 1064 Crunched size 1064
 Pattern data for 13 Original size 24 Crunched size 24
 Dynamic pattern data for 13 Original size 32 Crunched size 32
-Map header level12 Original size 9112 Crunched size 9112
+Map header level12 Original size 9116 Crunched size 9116
 Get Y lookup table level12 Original size 80 Crunched size 80
 Map tile data  level12 Original size 920 Crunched size 95
 Map block data for level12 Original size 920 Crunched size 27
 Map path node data for level12 Original size 12 Crunched size 12
 Map event data for level12 Original size 32 Crunched size 32
 Map animation data forlevel12 Original size 1064 Crunched size 1064
-Pattern data for 14 Original size 6 Crunched size 6
 Dynamic pattern data for 14 Original size 32 Crunched size 32
-Map header level99 Original size 9112 Crunched size 9112
+Map header level99 Original size 9116 Crunched size 9116
 Get Y lookup table level99 Original size 80 Crunched size 80
 Map tile data  level99 Original size 920 Crunched size 55
 Map block data for level99 Original size 920 Crunched size 6
@@ -136,12 +138,12 @@ Map path node data for level99 Original size 12 Crunched size 12
 Map event data for level99 Original size 32 Crunched size 32
 Project name table Original size 296 Crunched size 296
 Streamed project patterns Original size 8256 Crunched size 8256
-Images Original size 1242 Crunched size 1242
+Images Original size 1268 Crunched size 1268
 Animations Original size 272 Crunched size 272
 Animation Frames Original size 896 Crunched size 896
-Mega Drive header Original size 2894 Crunched size 2894
+Mega Drive header Original size 2902 Crunched size 2902
 Teleporters Original size 8 Crunched size 8
-Var Data Original size 16 Crunched size 16
+Var Data Original size 14 Crunched size 14
 Attack Data Original size 66 Crunched size 66
 Commands for Joystick 1 Original size 12 Crunched size 12
 
@@ -150,88 +152,92 @@ block_fire_2
 block_fire_3
 
 === Codeblocks by compiled size ===
-load_level: 686
-try_push_block: 634
-block_stop: 390
-set_yresolution: 386 (Unused?)
-do_teleport: 348
-flipscreen_smooth: 306 (Unused?)
-flipxymove: 250 (Unused?)
-try_present_hit_target: 236
-restartlevel: 234
-waitforframes: 186
-pre_startup: 182
-check_talkpad: 168 (Unused?)
-block_exit_level: 162
+load_level: 724
+try_push_block: 670
+block_stop: 434
+do_teleport: 404
+set_yresolution: 398 (Unused?)
+flipscreen_smooth: 310 (Unused?)
+flipxymove: 278 (Unused?)
+try_present_hit_target: 264
+restartlevel: 258
+pre_startup: 212
+waitforframes: 194
+block_exit_level: 182
+check_talkpad: 172 (Unused?)
+flipymove: 162 (Unused?)
 snap_to_screen: 158 (Unused?)
-flipymove: 146 (Unused?)
+pre_quit: 152 (Unused?)
 load_panel: 146
-pre_quit: 144 (Unused?)
-flipxmove: 130 (Unused?)
+flipxmove: 142 (Unused?)
+unload_level: 142
+pause: 138 (Unused?)
+load_music: 130
 AUTOGEN_OUTOFSCREEN_try_next_level_try_next_level_try_next_level_try_next_level: 130
-pause: 126 (Unused?)
-destroy_all_blocks: 120 (Unused?)
-load_music: 118
-pre_load_level: 118
-unload_level: 114
-waitforfireup: 106
-fadein: 102
-waitforfiredown: 102
-rudolph_at_exit: 102
-try_crush_reindeer: 102
-convert_present_to_block: 100
+destroy_all_blocks: 124 (Unused?)
+pre_load_level: 122
+waitforfireup: 114
+rudolph_at_exit: 114
+fadein: 112
+convert_present_to_block: 112
+waitforfiredown: 110
+try_crush_reindeer: 110
+unload_panel: 106
 load_panel_bottom: 96 (Unused?)
 load_panel_top: 96 (Unused?)
-unload_panel: 92
-destroy_child_actors: 90 (Unused?)
-convert_block_to_present: 88
+convert_block_to_present: 96
+destroy_child_actors: 94 (Unused?)
+present_down: 94
+present_left: 94
+present_right: 94
+santa_update_handler: 90
+fadeout: 88
 pre_anim5: 86 (Unused?)
 waitforfirehit: 86
-present_down: 86
-present_left: 86
-present_right: 86
-santa_update_handler: 86
-fadeout: 84
 startup: 82
+puff_of_smoke_end: 80
+load_music_finish: 76
 wrap_screen_bottom: 76 (Unused?)
 wrap_screen_right: 76 (Unused?)
-puff_of_smoke_end: 76
+flipscreen: 72 (Unused?)
 wrap_screen_left: 72 (Unused?)
 wrap_screen_top: 72 (Unused?)
-flipscreen: 70 (Unused?)
-load_music_finish: 64
-jump_actor: 62 (Unused?)
+jump_actor: 66 (Unused?)
+load_panel_finish: 66
 unload_panel_bottom: 62
 unload_panel_top: 62
-fall_straight_down: 60
+freeze_test: 62 (Unused?)
+destroy_all_actors: 60 (Unused?)
 go_to_next_level: 60
-freeze_test: 58 (Unused?)
-destroy_all_actors: 56 (Unused?)
-load_panel_finish: 56
-destroy_actor: 54
+destroy_actor: 58
+regenerate_screen: 58
+change_to_puff: 58
+moving_block_collision: 58
+santa_hit_fire: 58
 AUTOGEN_OUTOFSCREEN_None_None_None_restartlevel: 54
-change_to_puff: 54
-moving_block_collision: 54
-santa_hit_fire: 54
-regenerate_screen: 52
+destroy_block: 52 (Unused?)
 return: 52 (Unused?)
+quit: 50 (Unused?)
 try_next_level: 50
-destroy_block: 48 (Unused?)
-quit: 46 (Unused?)
-regenerate_screen_wait: 42
-autogen_anim_smoke_puff_0: 42
-autogen_santa_jump_r_0: 42
-autogen_santa_jump_l_0: 42
-resume_movement: 42
+regenerate_screen_wait: 46
+autogen_anim_smoke_puff_0: 46
+autogen_santa_jump_r_0: 46
+autogen_santa_jump_l_0: 46
+resume_movement: 46
+freeze_actor: 40
+unfreeze_actor: 40 (Unused?)
 autogen_rudolph_falling_r_0: 38
 autogen_rudolph_falling_l_0: 38
-freeze_actor: 36
-unfreeze_actor: 36 (Unused?)
+fall_straight_down: 38
 block_coll_force: 32 (Unused?)
 block_coll_passthru: 32
+clear_block_collision: 32
 vm_registers: 26 (Unused?)
 vm_constants: 26 (Unused?)
 debug_breakpoint: 26 (Unused?)
+hardware_amiga: 26 (Unused?)
+hardware_megadrive: 26 (Unused?)
+set_ntsc: 26
 vm_constants_audiodriver: 26 (Unused?)
 vm_constants_controlbits: 26 (Unused?)
 vm_constants_notes: 26 (Unused?)

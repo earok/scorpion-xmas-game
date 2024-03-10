@@ -1,25 +1,169 @@
 {
   "CompileOrder": 0,
   "DataVersion": 1,
-  "Variables": [
+  "Commands": [
     {
-      "Name": "present_x",
-      "Value": "0",
-      "Notes": null,
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
+      "Values": {},
+      "DataVersion": 6,
+      "Category": "Variable",
+      "BasicOperationType": "CommentOnly",
+      "DisplayOperationType": "SetPanel",
+      "AudioOperationType": "PlaySound",
+      "ConditionType": "Condition",
+      "LevelOperationType": "LoadLevel",
+      "ActorOperationType": "SetType",
+      "DialogueOperationType": "Speak",
+      "DataOperationType": "Load",
+      "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
+      "CoreType": "ActorSetType",
+      "ControlMode": "Joys_1",
+      "Goto": "",
+      "Comment": null,
+      "Variable": "present_x",
+      "Expression": "0",
+      "Index": "0",
+      "Label": "",
+      "DiceSides": 2,
+      "Disabled": false,
+      "Breakpoint": false,
+      "Level": "none",
+      "NewBlock": "none",
+      "XPosition": "",
+      "YPosition": "",
+      "TeleportName": "none",
+      "XFloat": null,
+      "YFloat": null,
+      "ActorType": "none",
+      "Animation": "none",
+      "PushXPixels": "",
+      "PushYPixels": "",
+      "LookDirection": "look_upleft",
+      "ResetMovement": true,
+      "ResetAnimations": true,
+      "ShootDirType": "actor_direction",
+      "Panel": "none",
+      "WaitForFireHit": false,
+      "Frames": "0",
+      "CameraX": "",
+      "CameraY": "",
+      "CameraBox": {
+        "Left": "0",
+        "Right": "0",
+        "Up": "0",
+        "Down": "0"
+      },
+      "LookAhead": {
+        "Left": "0",
+        "Right": "0",
+        "Up": "0",
+        "Down": "0"
+      },
+      "YRes": "",
+      "FrameWait": "",
+      "CameraFollowLeft": true,
+      "CameraFollowRight": true,
+      "CameraFollowUp": true,
+      "CameraFollowDown": true,
+      "CameraFollowInterpolateCamera": false,
+      "CameraFollowInterpolateSprites": false,
+      "ColorIndex": "0",
+      "Color": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 255
+      },
+      "Sound": "",
+      "Music": "",
+      "MusicPos": "0",
+      "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
+      "Conditions": []
     },
     {
-      "Name": "present_y",
-      "Value": "0",
-      "Notes": null,
-      "PrivateSet": false,
-      "Watch": false,
-      "VariableType": "Variable"
-    }
-  ],
-  "Commands": [
+      "Values": {},
+      "DataVersion": 6,
+      "Category": "Variable",
+      "BasicOperationType": "CommentOnly",
+      "DisplayOperationType": "SetPanel",
+      "AudioOperationType": "PlaySound",
+      "ConditionType": "Condition",
+      "LevelOperationType": "LoadLevel",
+      "ActorOperationType": "SetType",
+      "DialogueOperationType": "Speak",
+      "DataOperationType": "Load",
+      "ControlOperationType": "JumpControls",
+      "PaletteOperationType": "SetColor",
+      "CoreType": "ActorSetType",
+      "ControlMode": "Joys_1",
+      "Goto": "",
+      "Comment": null,
+      "Variable": "present_y",
+      "Expression": "0",
+      "Index": "0",
+      "Label": "",
+      "DiceSides": 2,
+      "Disabled": false,
+      "Breakpoint": false,
+      "Level": "none",
+      "NewBlock": "none",
+      "XPosition": "",
+      "YPosition": "",
+      "TeleportName": "none",
+      "XFloat": null,
+      "YFloat": null,
+      "ActorType": "none",
+      "Animation": "none",
+      "PushXPixels": "",
+      "PushYPixels": "",
+      "LookDirection": "look_upleft",
+      "ResetMovement": true,
+      "ResetAnimations": true,
+      "ShootDirType": "actor_direction",
+      "Panel": "none",
+      "WaitForFireHit": false,
+      "Frames": "0",
+      "CameraX": "",
+      "CameraY": "",
+      "CameraBox": {
+        "Left": "0",
+        "Right": "0",
+        "Up": "0",
+        "Down": "0"
+      },
+      "LookAhead": {
+        "Left": "0",
+        "Right": "0",
+        "Up": "0",
+        "Down": "0"
+      },
+      "YRes": "",
+      "FrameWait": "",
+      "CameraFollowLeft": true,
+      "CameraFollowRight": true,
+      "CameraFollowUp": true,
+      "CameraFollowDown": true,
+      "CameraFollowInterpolateCamera": false,
+      "CameraFollowInterpolateSprites": false,
+      "ColorIndex": "0",
+      "Color": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 255
+      },
+      "Sound": "",
+      "Music": "",
+      "MusicPos": "0",
+      "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
+      "Conditions": []
+    },
     {
       "Values": {},
       "DataVersion": 6,
@@ -96,6 +240,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -182,6 +329,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -268,6 +418,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -354,6 +507,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "block_type",
@@ -440,6 +596,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -526,6 +685,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": []
     },
     {
@@ -604,6 +766,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": []
     },
     {
@@ -682,6 +847,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -768,6 +936,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "player_y / 16",
@@ -854,6 +1025,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "control1_x",
@@ -940,6 +1114,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "player_isonplatform",
@@ -1026,6 +1203,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "control1_x",
@@ -1112,6 +1292,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -1198,6 +1381,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "actor_isonplatform",
@@ -1284,6 +1470,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "tile_data",
@@ -1370,6 +1559,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -1456,6 +1648,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": []
     },
     {
@@ -1534,6 +1729,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -1620,6 +1818,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -1706,6 +1907,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "actor_isonplatform",
@@ -1792,6 +1996,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "tile_data",
@@ -1878,6 +2085,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -1964,6 +2174,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -2050,6 +2263,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": []
     },
     {
@@ -2128,6 +2344,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": []
     },
     {
@@ -2206,6 +2425,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -2292,6 +2514,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -2378,6 +2603,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -2464,6 +2692,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": []
     },
     {
@@ -2542,6 +2773,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -2628,6 +2862,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "control1_x",
@@ -2714,6 +2951,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -2800,6 +3040,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": []
     },
     {
@@ -2878,6 +3121,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -2964,6 +3210,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": []
     },
     {
@@ -3042,6 +3291,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": []
     },
     {
@@ -3120,6 +3372,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -3206,6 +3461,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "player_y / 16",
@@ -3292,6 +3550,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "player_x / 16",
@@ -3378,6 +3639,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -3464,6 +3728,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -3550,6 +3817,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -3636,6 +3906,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "block_type",
@@ -3722,6 +3995,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -3808,6 +4084,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -3894,6 +4173,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": []
     },
     {
@@ -3972,6 +4254,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -4058,6 +4343,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -4144,6 +4432,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -4230,6 +4521,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "player_yspeed",
@@ -4316,6 +4610,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "actor_isonplatform",
@@ -4402,6 +4699,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "tile_data",
@@ -4488,6 +4788,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -4574,6 +4877,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -4660,6 +4966,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -4746,6 +5055,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -4832,6 +5144,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -4918,6 +5233,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -5004,6 +5322,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -5090,6 +5411,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": []
     },
     {
@@ -5168,6 +5492,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -5254,6 +5581,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -5340,6 +5670,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
@@ -5426,6 +5759,9 @@
       "Music": "",
       "MusicPos": "0",
       "SpeakDelay": 1,
+      "Platform": "all",
+      "VariableType": "Variable",
+      "VariableExpansionMode": "Word",
       "Conditions": [
         {
           "LeftSide": "",
