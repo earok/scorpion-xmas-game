@@ -1,5 +1,5 @@
 {
-  "TargetPlatform": "amiga_ocs",
+  "TargetPlatform": "neogeo",
   "StartupCodeBlock": "startup",
   "Recompile": true,
   "DebugMode": false,
@@ -172,8 +172,6 @@
   "FontMetaData": {},
   "SplashScreen": null,
   "LogicSpeed": "PAL_50HZ",
-  "StartingPaletteLine": 0,
-  "PaletteLines": 1,
   "ReadCD32Buttons": false,
   "ReadMD6Buttons": false,
   "MDRegion": "Universal",
